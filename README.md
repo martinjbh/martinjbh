@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/barreiro-martin/](https://www.linkedin.com/in/barreiro-martin/)
 
-- 💬 Ask me about **React.js , Exprees , Javascript**
+- 💬 Ask me about **React.js , Exprees , Javascript, PostgreSQL, MongodB**
 
 - 📫 How to reach me **barreiromartinj@gmail.com**
 
