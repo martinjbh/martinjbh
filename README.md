@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with [Syntaxis](http://www.sintaxisglutenfree.com/)
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/martinjhb](https://gitlab.com/martinjhb)
+- 👨‍💻 All of my projects are available at [https://barreiromartin.com/](https://barreiromartin.com/)
 
-- 👨‍ 💻My GiTlAB [https://barreiromartin.com/](https://barreiromartin.com/)
+- 👨‍ 💻My GiTlAB [https://gitlab.com/martinjhb](https://gitlab.com/martinjhb)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/barreiro-martin/](https://www.linkedin.com/in/barreiro-martin/)
 
