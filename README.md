@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://barreiromartin.com/](https://barreiromartin.com/)
 
-- 👨‍ 💻My GiTlAB [[https://gitlab.com/martinjhb](https://gitlab.com/martinjhb)](https://gitlab.powermeter.com.ar/barreiromartinj)
+- 👨‍ 💻My GiTlAB https://gitlab.powermeter.com.ar/barreiromartinj
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/barreiro-martin/](https://www.linkedin.com/in/barreiro-martin/)
 
